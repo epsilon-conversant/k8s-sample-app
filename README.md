@@ -1,4 +1,4 @@
-# Continuous Delivery with Spinnaker and Kubernetes
+# Continuous Delivery with Spinnaker and Kubernetes v1
 
 | Test          |   Result      |
 | ------------- |---------------|
