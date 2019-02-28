@@ -1,4 +1,4 @@
-# Continuous Delivery with Spinnaker and Kubernetes v10
+# Continuous Delivery with Spinnaker and Kubernetes v11
 
 | Test          |   Result      |
 | ------------- |---------------|
